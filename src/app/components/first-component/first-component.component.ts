@@ -12,6 +12,10 @@ export class FirstComponentComponent implements OnInit {
   hobbies = [
     "assistir", " Jogar", " Ler",
   ];
+  car = {
+    name: "Polo",
+    year: 2014
+  }
 
   constructor() { }
 
