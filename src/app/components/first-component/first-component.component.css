@@ -1,3 +1,9 @@
 h2{
     color: violet;
 }
+
+.title{
+    background: black;
+    color: aqua;
+    padding: 15px;
+}
